@@ -7,7 +7,7 @@ async def get_weather(location: str = "Lapy, Poland"):
     return {
 	"location": location,
 	"temperature": "75 F",
-  	"condition": "Funny",
+  	"condition": "Sunny",
   	"humidity": "50%",
   	"wind": "5 mph"
     }

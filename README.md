@@ -72,3 +72,5 @@ I'm now affiliated with OpenAI.
 ## 👩‍💼🐦 Connect with Us on LinkedIn & Twitter
 
 Stay up-to-date with the latest updates about our projects by following us on Twitter ([MLJAR Twitter](https://twitter.com/MLJAROfficial)) and LinkedIn ([Aleksandra LinkedIn](https://www.linkedin.com/in/aleksandra-p%C5%82o%C5%84ska-42047432/) & [Piotr LinkedIn](https://www.linkedin.com/in/piotr-plonski-mljar/)). 
+
+Feel free to contact us if you need any help with ChatGPT Actions.

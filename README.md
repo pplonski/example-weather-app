@@ -1,4 +1,4 @@
-# Endpoint for api.example-weather-app/location
+# Endpoint for api.example-weather-app.com/location
 
 REST API endpoint for `api.example-weather-app.com/location` used in OpenAI GPT builder.
 
@@ -64,6 +64,11 @@ Here is OpenAPI schema for this endpoint:
 }
 ```
 
-### Disclaimer
+## Disclaimer
 
 I'm now affiliated with OpenAI.
+
+
+## 👩‍💼🐦 Connect with Us on LinkedIn & Twitter
+
+Stay up-to-date with the latest updates about our projects by following us on Twitter ([MLJAR Twitter](https://twitter.com/MLJAROfficial)) and LinkedIn ([Aleksandra LinkedIn](https://www.linkedin.com/in/aleksandra-p%C5%82o%C5%84ska-42047432/) & [Piotr LinkedIn](https://www.linkedin.com/in/piotr-plonski-mljar/)). 

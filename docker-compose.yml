@@ -1,0 +1,20 @@
+version: '2'
+
+services:
+    nginx: 
+        restart: unless-stopped
+        image: nginx:stable-alpine
+        ports:
+            - 80:80
+        volumes:
+            - ./docker/nginx:/etc/nginx/conf.d
+        depends_on: 
+            - app
+        command: "/bin/sh -c 'nginx -g \"daemon off;\"'"
+    app:
+        restart: unless-stopped
+        build:
+            context: .
+            dockerfile: ./docker/app/Dockerfile
+        expose:
+            - 8000    

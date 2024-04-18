@@ -2,6 +2,8 @@
 
 REST API endpoint for `api.example-weather-app.com/location` used in OpenAI GPT builder.
 
+## The endpoint `api.example-weather-app.com/location` is no longer working, server is off
+
 The GPT builder was announced during OpenAI DevDay (06/11/23). You can use it to build your customized GTP. One of its features is ability to call REST API. You can add actions that call 3rd party API.
 
 ![](/media/add_action.gif)
